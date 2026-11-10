@@ -1,0 +1,8 @@
+-- Databricks notebook source
+-- MAGIC %python
+-- MAGIC print("Hello World")
+-- MAGIC
+-- MAGIC if True:
+-- MAGIC   print("True")
+-- MAGIC else:
+-- MAGIC   print("False")
